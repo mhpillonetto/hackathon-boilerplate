@@ -1,3 +1,6 @@
 [submodule "hackathon-boilerplate-backend"]
 	path = hackathon-boilerplate-backend
 	url = https://github.com/mhpillonetto/hackathon-boilerplate-backend.git
+[submodule "hackathon-mobile-boilerplate"]
+	path = hackathon-mobile-boilerplate
+	url = https://github.com/mhpillonetto/hackathon-boilerplate-mobile.git
