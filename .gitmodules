@@ -1,0 +1,3 @@
+[submodule "hackathon-boilerplate-backend"]
+	path = hackathon-boilerplate-backend
+	url = https://github.com/mhpillonetto/hackathon-boilerplate-backend.git
